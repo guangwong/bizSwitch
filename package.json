@@ -1,0 +1,11 @@
+{
+  "name": "bizSwitch",
+  "version": "0.0.1",
+  "description": "单机持久化的业务开关",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Allen",
+  "license": "MIT"
+}
