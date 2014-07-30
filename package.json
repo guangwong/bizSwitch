@@ -7,5 +7,9 @@
     "test": "mocha"
   },
   "author": "Allen",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.0.1",
+    "underscore": "^1.6.0"
+  }
 }
