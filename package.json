@@ -11,5 +11,8 @@
   "dependencies": {
     "q": "^1.0.1",
     "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "should": "^4.0.4"
   }
 }
