@@ -1,5 +1,6 @@
 'use strict';
 
+var meta = require("./meta");
 var bizSwitch = require("../index");
 var bizSwitchServer = bizSwitch.server;
 var bizSwitchClient = bizSwitch.client;
@@ -10,7 +11,7 @@ var defaultSwitchs = {
 }
 
 bizSwitchServer.init({
-    defaultSwitchs : defaultSwitchs,
+    defaultSwitchs : meta.defaultSwitchs,
     port : 1233
 });
 
