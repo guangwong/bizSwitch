@@ -1,6 +1,6 @@
 //单进程模式的测试用例
 var should = require('should');
-var bizSwitch = require("../index");
+var bizSwitch = require("../../index");
 var bizSwitchServer = bizSwitch.server;
 var bizSwitchClient = bizSwitch.client;
 

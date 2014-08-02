@@ -1,4 +1,4 @@
-var support = require("../lib/support");
+var support = require("../../lib/support");
 var should = require('should');
 
 describe("support", function(){
