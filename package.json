@@ -1,6 +1,6 @@
 {
   "name": "biz-switch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "运行时开关",
   "main": "index.js",
   "author": "Allen",
@@ -11,5 +11,22 @@
   },
   "devDependencies": {
     "should": "^4.0.4"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guangwong/bizSwitch.git"
+  },
+  "keywords": [
+    "switch"
+  ],
+  "bugs": {
+    "url": "https://github.com/guangwong/bizSwitch/issues"
+  },
+  "homepage": "https://github.com/guangwong/bizSwitch"
 }
