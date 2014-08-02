@@ -1,7 +1,7 @@
 'use strict';
 
 /***
- * 开关，单机持久化
+ * 运行时开关
  */
 
 exports.client = require("./lib/client");
