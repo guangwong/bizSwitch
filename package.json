@@ -1,5 +1,5 @@
 {
-  "name": "bizSwitch",
+  "name": "biz-switch",
   "version": "0.0.1",
   "description": "运行时开关",
   "main": "index.js",
