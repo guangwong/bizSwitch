@@ -1,7 +1,7 @@
 {
   "name": "bizSwitch",
   "version": "0.0.1",
-  "description": "单机持久化的业务开关",
+  "description": "运行时开关",
   "main": "index.js",
   "author": "Allen",
   "license": "MIT",
