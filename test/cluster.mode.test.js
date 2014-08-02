@@ -14,7 +14,8 @@ describe("cluster", function(){
     var masterProcess = null;
 
     it("Master 可以启动", function(done){
-        masterProcess = fork("./cluster.mode.master");
+        masterProcess = fork( __dirname + "/cluster.mode.master");
+        masterProcess.send({});
         masterProcess.on("message", function(message){
             if(message.cmd === "online"){
                 done();
