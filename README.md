@@ -12,8 +12,8 @@
 
 ### /demo/self.js
 
-单进程模式的 Demo。
+单进程模式的 Demo
 
 ### /demo/master.js
 
-Cluster 模式的 Demo。
+Cluster 模式的 Demo
