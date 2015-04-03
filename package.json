@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "运行时开关",
   "main": "index.js",
-  "author": "Allen",
+  "author": "九十",
   "license": "MIT",
   "dependencies": {
     "q": "^1.0.1",
